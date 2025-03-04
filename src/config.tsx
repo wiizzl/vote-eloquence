@@ -26,18 +26,6 @@ const config = {
       },
     ],
   },
-
-  Navigation: [
-    { name: "Accueil", href: "" },
-    { name: "Boutique", href: "shop" },
-    { name: "Avis", href: "reviews" },
-    { name: "FAQ", href: "faq" },
-  ],
-  Links: [
-    { name: "Contact", href: "contact" },
-    { name: "Légal", href: "legal" },
-    { name: "CGV", href: "cgv" },
-  ],
 };
 
 export { config };
