@@ -22,5 +22,7 @@ model Spectator {
   firstName String
   lastName  String
 
+  ipAdress String
+
   @@map("spectator")
 }
