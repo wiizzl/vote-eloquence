@@ -21,7 +21,7 @@ const config = {
       },
       {
         name: "Instagram",
-        href: "https://instagram.com/pierre.hlr",
+        href: "https://instagram.com/pierre.hlr_",
         icon: Instagram,
       },
     ],
