@@ -12,6 +12,7 @@ model Candidate {
 
   firstName String
   lastName  String
+  image     String
 
   @@map("candidate")
 }

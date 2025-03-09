@@ -2,7 +2,7 @@ import { Github, Instagram, Linkedin } from "lucide-react";
 
 const config = {
   title: "Concours d'éloquence 2025 - La Chataîgneraie",
-  description: "",
+  description: "Plateforme de vote pour le concours d'éloquence du lycée La Chataîgneraie",
   keywords: ["vote", "concours"],
 
   creator: {
